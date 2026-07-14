@@ -28,8 +28,7 @@
 </div>
 
 <div align="center">
-<img width="320" height="280" alt="deepseek_svg_20260714_b10c16" src="https://github.com/user-attachments/assets/1c49f1a8-8961-438f-bf56-416b573e7b01" />
-
+  <img width="1362" height="862" alt="6 (1)" src="https://github.com/user-attachments/assets/9d5d6ed1-aee6-4e03-a4ed-f021415b039f" />
 </div>
 
 ---
@@ -37,7 +36,7 @@
 <table align="center">
   <tr>
     <td style="padding: 10px;">
-      <img width="1362" height="862" alt="6 (1)" src="https://github.com/user-attachments/assets/9d5d6ed1-aee6-4e03-a4ed-f021415b039f" />
+      <img width="320" height="280" alt="deepseek_svg_20260714_b10c16" src="https://github.com/user-attachments/assets/1c49f1a8-8961-438f-bf56-416b573e7b01" />
     </td>
     <td style="padding: 10px;">
       <img width="320" height="280" alt="deepseek_svg_20260714_fa63fd" src="https://github.com/user-attachments/assets/394431a0-bfd8-45f8-bb81-c105ecaa7520" />
